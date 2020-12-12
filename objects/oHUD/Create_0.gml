@@ -7,9 +7,9 @@ __dnd_score = real(0);
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 11EA145A
-/// @DnDArgument : "lives" "3"
+/// @DnDArgument : "lives" "4"
 
-__dnd_lives = real(3);
+__dnd_lives = real(4);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
