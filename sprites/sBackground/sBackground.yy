@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bdad7e65-f757-4c87-8a9f-29fdef951d5c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "boomb",
-    "path": "boomb.yyp",
+    "name": "Boomb",
+    "path": "Boomb.yyp",
   },
   "resourceVersion": "1.0",
   "name": "sBackground",

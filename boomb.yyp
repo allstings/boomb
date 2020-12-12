@@ -5,6 +5,7 @@
     {"id":{"name":"oBall","path":"objects/oBall/oBall.yy",},"order":16,},
     {"id":{"name":"sBallNoFire","path":"sprites/sBallNoFire/sBallNoFire.yy",},"order":21,},
     {"id":{"name":"sHUD","path":"sprites/sHUD/sHUD.yy",},"order":32,},
+    {"id":{"name":"AlienIco","path":"sprites/AlienIco/AlienIco.yy",},"order":33,},
     {"id":{"name":"oControl","path":"objects/oControl/oControl.yy",},"order":30,},
     {"id":{"name":"sGo","path":"sprites/sGo/sGo.yy",},"order":20,},
     {"id":{"name":"oParentAlien","path":"objects/oParentAlien/oParentAlien.yy",},"order":28,},
@@ -61,7 +62,7 @@
     "IDEVersion": "2.3.1.536",
   },
   "resourceVersion": "1.4",
-  "name": "boomb",
+  "name": "Boomb",
   "tags": [],
   "resourceType": "GMProject",
 }

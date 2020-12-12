@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ea99ff94-ccfe-427d-91db-ebbd8d9efd87","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "boomb",
-    "path": "boomb.yyp",
+    "name": "Boomb",
+    "path": "Boomb.yyp",
   },
   "resourceVersion": "1.0",
   "name": "sAFire",

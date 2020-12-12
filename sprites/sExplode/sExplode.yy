@@ -84,8 +84,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0a58077c-db0c-4556-b5ef-66e4d434fc30","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "boomb",
-    "path": "boomb.yyp",
+    "name": "Boomb",
+    "path": "Boomb.yyp",
   },
   "resourceVersion": "1.0",
   "name": "sExplode",

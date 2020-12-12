@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "boomb",
-    "path": "boomb.yyp",
+    "name": "Boomb",
+    "path": "Boomb.yyp",
   },
   "resourceVersion": "1.0",
   "name": "oShot",
